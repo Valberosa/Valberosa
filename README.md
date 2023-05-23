@@ -1,5 +1,5 @@
 ### Hi there 👋
--- `[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([https://www.linkedin.com/feed/])
+-- `[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([https://www.linkedin.com/feed/]
 <!--
 **Valberosa/Valberosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
